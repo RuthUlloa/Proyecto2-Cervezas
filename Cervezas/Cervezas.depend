@@ -48,3 +48,18 @@
 1465162353 c:\users\ruth\desktop\cervezas\cervezas\include\grafo.h
 	"NodoCerveza.h"
 
+1465162353 source:c:\users\ruth\proyecto2-cervezas\cervezas\listaaristas.cpp
+	"NodoCerveza.h"
+
+1465162353 c:\users\ruth\proyecto2-cervezas\cervezas\include\nodocerveza.h
+	<iostream>
+	"lista.h"
+
+1465162353 c:\users\ruth\proyecto2-cervezas\cervezas\include\lista.h
+	<cstdlib>
+	<iostream>
+	"NodoCerveza.h"
+
+1465162353 source:c:\users\ruth\proyecto2-cervezas\cervezas\listasimple.cpp
+	"NodoCerveza.h"
+

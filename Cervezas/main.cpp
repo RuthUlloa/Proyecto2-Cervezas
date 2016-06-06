@@ -170,12 +170,5 @@ int main()
         }
     }
 
-    grafo1->insertarTipoFamilia(1,"lager");
-    grafo1->insertarTipoFamilia(1,"bruth");
-    grafo1->insertarTipoFamilia(2,"european lager");
-    grafo1->insertarArista("lager","european lager");
-    grafo1->insertarCerveza(3,"Bruthpean Lager", "anejo", 2, 24,"oscuro","fuerte",2000);
-    grafo1->insertarArista("european lager","Bruthpean Lager");
-    grafo1->insertarArista("bruth","Bruthpean Lager");
-    grafo1->imprimir();
+
 }
