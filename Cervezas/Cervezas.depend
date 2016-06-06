@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\ruth\desktop\cervezas\main.cpp
+	<iostream>
+
+1465155872 source:c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\cervezas\cervezas\listaaristas.cpp
+	"NodoCerveza.h"
+
+1465156561 c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\cervezas\cervezas\include\lista.h
+	<cstdlib>
+	<iostream>
+	"NodoCerveza.h"
+
+1465156561 source:c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\cervezas\cervezas\listasimple.cpp
+	"NodoCerveza.h"
+
+1465161433 source:c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\cervezas\cervezas\main.cpp
+	<iostream>
+	"NodoCerveza.h"
+	"grafo.h"
+
+1465160159 c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\cervezas\cervezas\include\nodocerveza.h
+	<iostream>
+	"lista.h"
+
+1465142345 c:\users\siul mongalo\documents\tec\estructuras de datos\proyecto2\cervezas\cervezas\include\grafo.h
+	"NodoCerveza.h"
+
+1465162353 source:c:\users\ruth\desktop\cervezas\cervezas\listaaristas.cpp
+	"NodoCerveza.h"
+
+1465162353 c:\users\ruth\desktop\cervezas\cervezas\include\nodocerveza.h
+	<iostream>
+	"lista.h"
+
+1465162353 c:\users\ruth\desktop\cervezas\cervezas\include\lista.h
+	<cstdlib>
+	<iostream>
+	"NodoCerveza.h"
+
+1465162353 source:c:\users\ruth\desktop\cervezas\cervezas\listasimple.cpp
+	"NodoCerveza.h"
+
+1465162353 source:c:\users\ruth\desktop\cervezas\cervezas\main.cpp
+	<iostream>
+	"NodoCerveza.h"
+	"grafo.h"
+
+1465162353 c:\users\ruth\desktop\cervezas\cervezas\include\grafo.h
+	"NodoCerveza.h"
+
